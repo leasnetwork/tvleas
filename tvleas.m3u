@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1, Frecuencia Latina
-https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/5fe6d91a-766b-47b5-9de4-125f5a560ac7:DLS/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/662034.m3u8
+https://live-evg20.tv360.bitel.com.pe/W32HrCVqX7rAeCVcl0dJXg/1785894726/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF: -2, ATV
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF: -3, America Tv
