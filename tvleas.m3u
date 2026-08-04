@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF: -1, Frecuencia Latina
+https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/5fe6d91a-766b-47b5-9de4-125f5a560ac7:DLS/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/662034.m3u8
+#EXTINF: -2, ATV
+https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+#EXTINF: -3, America Tv
+https://live-evg23.tv360.bitel.com.pe/OU3VHQF5hgG9jRdwdSXiPQ/1785885276/manifest/america/playlist_clean_source_480p.m3u8
+#EXTINF: -3, Panamericana
+https://live-evg20.tv360.bitel.com.pe/qtWkgpAeAOTr6e0mjHm46Q/1785885378/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF: -4, PBO
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF: -5, Willax
+https://live-evg20.tv360.bitel.com.pe/VPdvtyDp4jtXPe52HIZgRA/1785885801/bitel/Willax-UDP_abr/bitel/WILLAX-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF: -6, Exitosa
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=16644145
+#EXTINF: -7, Tv Peru
+https://live-evg20.tv360.bitel.com.pe/zbPLgtaKaXeyb0LRYtDeIg/1785885933/bitel/TVPeru-UDP_abr/bitel/TVPERU-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF: -8, Urbana Tv Huaraz
+https://live-evg13.tv360.bitel.com.pe/bitel/UrbanaTv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF: -9, Antena Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=16644145
