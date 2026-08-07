@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF: -1, Frecuencia Latina
-https://live-evg20.tv360.bitel.com.pe/W32HrCVqX7rAeCVcl0dJXg/1785894726/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=16644145&timestamp=1786163691&token=56b6ba7ae34352db53efd59351d5021d
 #EXTINF: -2, ATV
 https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF: -3, America Tv
-https://live-evg23.tv360.bitel.com.pe/OU3VHQF5hgG9jRdwdSXiPQ/1785885276/manifest/america/playlist_clean_source_480p.m3u8
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-1/manifest/america/playlist_clean_source_480p.m3u8?wmkid=0&uid=16644145&timestamp=1786163778&token=642d085e0e3fffc32f07df2168a35550
 #EXTINF: -3, Panamericana
 https://live-evg20.tv360.bitel.com.pe/qtWkgpAeAOTr6e0mjHm46Q/1785885378/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF: -4, PBO
